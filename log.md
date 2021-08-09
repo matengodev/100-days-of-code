@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Thursday, August 5, 2021
+### Day 1: Thursday, August 5, 2021(Version Control with GIT)
 
 **Today's Progress**: learnt How to Create Git repository And Commit Code Online.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Git Repository](http://www.example.com)
 
-### Day 2: Friday, August 6, 2021
+### Day 2: Friday, August 6, 2021 (JavaScript Fundamentals Refresher)
 
 **Today's Progress**: Refresher Course around JavaScript Assignment Operators, Variables Hands-On, Arithmetic Operators,
 Plus Operators and Strings, NAN, Increment and decrement operators,Conditional Operators
@@ -17,7 +17,7 @@ Plus Operators and Strings, NAN, Increment and decrement operators,Conditional O
 
 **Link to work:** [udemy courses](https://www.udemy.com/course/javascriptfundamentals)
 
-### Day 3: Saturday, August 7, 2021
+### Day 3: Saturday, August 7, 2021(Getting Started with Bootstrap)
 
 **Today's Progress**: Checked out Bootstrap and downloaded a theme called KnightOne and One Pager that I customized.
 
@@ -25,7 +25,7 @@ Plus Operators and Strings, NAN, Increment and decrement operators,Conditional O
 
 **Link to work:** [Get Bootstrap](https://www.udemy.com/course/javascriptfundamentals)
 
-### Day 4: Sunday, August 8, 2021
+### Day 4: Sunday, August 8, 2021(Flutter)
 
 **Today's Progress**: Checked on how flutter works and how to get started with it. Checked out a project that consumes the TMDB API.
 My Technical writing dream also still on course after learning about some amazing tools I can use like: Canva, Sketch,Miro, Lucidchart,

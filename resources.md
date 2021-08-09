@@ -22,6 +22,7 @@
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 2. [Codedamn - Javascript 101 course](https://codedamn.com/learn/javascript-basics/avmx_IwEu_)
+3. [Android - Android and Kotlin] (https://www.raywenderlich.com/android/videos)
 
 ## Books (both coding and non-coding)
 

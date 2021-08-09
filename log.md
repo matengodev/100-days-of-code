@@ -16,3 +16,11 @@ Plus Operators and Strings, NAN, Increment and decrement operators,Conditional O
 **Thoughts:** JavaScript is an amazing & I will keep pushing myself daily to grasp all the concept.
 
 **Link to work:** [udemy courses](https://www.udemy.com/course/javascriptfundamentals)
+
+### Day 3: Saturday, August 7, 2021
+
+**Today's Progress**: Checked out Bootstrap and downloaded a theme called KnightOne and One Pager that I customized.
+
+**Thoughts:** Bootstrap is the way to Go.
+
+**Link to work:** [udemy courses](https://www.udemy.com/course/javascriptfundamentals)

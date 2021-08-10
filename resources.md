@@ -34,9 +34,10 @@
 5. ["Release Your Potential"](Dr Myles Munroes)
 
 ### Coding
-1. "Professional Node.js" by Teixeira
+1. ["Professional Node.js"] by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. ["Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5"](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript-ebook/dp/B07CZ4W8X2/ref=as_li_ss_tl?keywords=php+books&qid=1554195228&s=gateway&sr=8-1&linkCode=sl1&tag=srinipro-20&linkId=512649a1c853a002f64c256527d4598e&language=en_US)
 
 ## Contents
 * [Rules](rules.md)

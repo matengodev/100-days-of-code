@@ -34,3 +34,13 @@ Marvel, Invision and Cacoo
 to codedamn for considerations.
 
 **Link to work:** [Flutter](https://flutter.dev/)
+
+### Day 5: Monday, August 9, 2021(PHP API)
+
+**Today's Progress**: Worked on a tutorial by Travesy Media about APIs with PHP and learnt something about PHP Try - Catch Block
+
+**Thoughts:** I did not grasp much of the concept and will review the tutorial again
+
+**Link to work:** [Travesy Media Youtube](https://www.youtube.com/traversymedia)
+
+

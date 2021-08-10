@@ -30,6 +30,7 @@ Plus Operators and Strings, NAN, Increment and decrement operators,Conditional O
 **Today's Progress**: Checked on how flutter works and how to get started with it. Checked out a project that consumes the TMDB API.
 My Technical writing dream also still on course after learning about some amazing tools I can use like: Canva, Sketch,Miro, Lucidchart,
 Marvel, Invision and Cacoo
+
 **Thoughts:** Getting better at technical work and starting to get gigs that will help me with my bills payments. Submitted my proposal
 to codedamn for considerations.
 

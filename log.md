@@ -44,4 +44,7 @@ to codedamn for considerations.
 
 **Link to work:** [Travesy Media Youtube](https://www.youtube.com/traversymedia)
 
+### Day 6: Tuesday, August 10, 2021(PHP For Absolute Beginners)
+
+
 

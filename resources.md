@@ -31,13 +31,13 @@
 2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
 3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
 4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
-5. ["Release Your Potential"](Dr Myles Munroes)
+5. ["Release You Potential By Dr Myles Munroe](https://www.google.com)
 
 ### Coding
-1. ["Professional Node.js"] by Teixeira
+1. ["Professional Node.js] by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
-4. ["Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5"](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript-ebook/dp/B07CZ4W8X2/ref=as_li_ss_tl?keywords=php+books&qid=1554195228&s=gateway&sr=8-1&linkCode=sl1&tag=srinipro-20&linkId=512649a1c853a002f64c256527d4598e&language=en_US)
+4. ["Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript-ebook/dp/B07CZ4W8X2/ref=as_li_ss_tl?keywords=php+books&qid=1554195228&s=gateway&sr=8-1&linkCode=sl1&tag=srinipro-20&linkId=512649a1c853a002f64c256527d4598e&language=en_US)
 
 ## Contents
 * [Rules](rules.md)

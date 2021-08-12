@@ -38,7 +38,7 @@
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
 4. ["Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript-ebook/dp/B07CZ4W8X2/ref=as_li_ss_tl?keywords=php+books&qid=1554195228&s=gateway&sr=8-1&linkCode=sl1&tag=srinipro-20&linkId=512649a1c853a002f64c256527d4598e&language=en_US)
-5. ["Best Udemy Courses Ever Created](https://drive.google.com/drive/u/1/folders/19z7sWfpzWbItKRSeIBzdt-CWfAKsMs0U)
+5. ["Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
 
 ## Contents
 * [Rules](rules.md)

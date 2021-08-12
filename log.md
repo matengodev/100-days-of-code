@@ -46,5 +46,18 @@ to codedamn for considerations.
 
 ### Day 6: Tuesday, August 10, 2021(PHP For Absolute Beginners)
 
+**Today's Progress**: Learn the basic conceprts of PHP Language which include: Variables declaration and printing, 
+
+**Thoughts:** I did not grasp much of the concept and will review the tutorial again
+
+**Link to work:** [Travesy Media Youtube](https://www.youtube.com/traversymedia)
+
+### Day 7: Wednesday, August 11, 2021( Escaping Tutorials Hell)
+
+**Today's Progress**: Today I took a day off code and learnt about tips how to escape tutorials hell
+
+**Thoughts:** Keep Learning and building projects
+
+**Link to work:** [Codedamn Guide](https://codedamn.com/learn/javascript-basics/L13ZnaVI2y)
 
 

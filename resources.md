@@ -22,7 +22,9 @@
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 2. [Codedamn - Javascript 101 course](https://codedamn.com/learn/javascript-basics/avmx_IwEu_)
-3. [Android - Android and Kotlin] (https://www.raywenderlich.com/android/videos)
+3. [Android - Android and Kotlin] (https://raywenderlich.com/android/videos)
+4. [Python Tutorial: Introduction To Learn Python Tutorial](https://www.youtube.com/watch?v=P74JAYCD45A&list=PLGzru6ACxEALhcvY18A-iox-mEoieHMVG&ab_channel=MasterCodeOnline)
+5. ["Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
 
 ## Books (both coding and non-coding)
 
@@ -36,9 +38,8 @@
 ### Coding
 1. ["Professional Node.js] by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
-3. "Mastering JavaScript" by Ved Antani
+3. ["Mastering JavaScript] (by Ved Antani)
 4. ["Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript-ebook/dp/B07CZ4W8X2/ref=as_li_ss_tl?keywords=php+books&qid=1554195228&s=gateway&sr=8-1&linkCode=sl1&tag=srinipro-20&linkId=512649a1c853a002f64c256527d4598e&language=en_US)
-5. ["Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
 
 ## Contents
 * [Rules](rules.md)

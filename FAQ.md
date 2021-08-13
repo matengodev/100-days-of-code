@@ -8,7 +8,7 @@
 
   **Q:** I've already started the challenge, and I'm currently on Day 8. How can I start using this repo to track my progress?
   **A:** Don't worry. Restore as much info on the previous days, but if you can't then just continue from where you are right now. If you have been tweeting about your progress every day, put the links to your tweets in the Log for each day. Then, follow the format.
-
+  
   **Q:** I am new to coding (or just deciding to learn to code) and can’t build projects yet, what should I do?
   **A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) from the very beginning. The further you get during the 100 days, the better.
 

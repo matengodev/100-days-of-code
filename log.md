@@ -68,4 +68,12 @@ to codedamn for considerations.
 
 **Link to work:** [Hashnode](https://hashnode.com/)
 
+### Day 9: Friday, August 13, 2021(PHP Basics)
+
+**Today's Progress**: Today I Learnt about PHP language basics - Data Types,Objects, Php Null. I learnt that php var_dump() function returns the datatype and value.
+
+**Thoughts:** I will Learn more about php Objects - (Objects inherit all properties and behaviours from the class but each object will have different values eg class named car with properties like $model, $color- )
+
+**Link to work:** [W3Schools](https://www.w3schools.com/php/php_oop_classes_objects.asp)
+
 

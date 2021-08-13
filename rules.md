@@ -2,10 +2,10 @@
 
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour every day for the next 100 days in 2021.*
 
 #### Start Date
-August 5th, 2021.
+August 5th, 2021 .
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
@@ -27,3 +27,4 @@ August 5th, 2021.
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+

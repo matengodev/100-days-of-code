@@ -22,9 +22,10 @@
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 2. [Codedamn - Javascript 101 course](https://codedamn.com/learn/javascript-basics/avmx_IwEu_)
-3. [Android - Android and Kotlin] (https://raywenderlich.com/android/videos)
+3. [Android - Android and Kotlin](https://raywenderlich.com/android/videos)
 4. [Python Tutorial: Introduction To Learn Python Tutorial](https://www.youtube.com/watch?v=P74JAYCD45A&list=PLGzru6ACxEALhcvY18A-iox-mEoieHMVG&ab_channel=MasterCodeOnline)
 5. ["Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
+6. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## Books (both coding and non-coding)
 
@@ -32,8 +33,9 @@
 1. ["The War of Art" by Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
 2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
 3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
-4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
-5. ["Release You Potential By Dr Myles Munroe](https://www.google.com)
+4. ["PHP Developer roadmap](https://github.com/thecodeholic/php-developer-roadmap)
+5. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
+6. ["Release You Potential By Dr Myles Munroe](https://www.google.com)
 
 ### Coding
 1. ["Professional Node.js] by Teixeira

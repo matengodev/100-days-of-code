@@ -62,7 +62,7 @@ to codedamn for considerations.
 
 ### Day 8: Thursday, August 12, 2021()
 
-**Today's Progress**: Today A Day Off to read tech blogs and apply for jobs
+**Today's Progress**: Off day to read tech blogs and apply for jobs
 
 **Thoughts:** Networking is very important
 

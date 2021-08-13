@@ -60,4 +60,12 @@ to codedamn for considerations.
 
 **Link to work:** [Codedamn Guide](https://codedamn.com/learn/javascript-basics/L13ZnaVI2y)
 
+### Day 8: Thursday, August 12, 2021()
+
+**Today's Progress**: Today A Day Off to read tech blogs and apply for jobs
+
+**Thoughts:** Networking is very important
+
+**Link to work:** [Hashnode](https://hashnode.com/)
+
 

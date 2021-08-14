@@ -75,5 +75,3 @@ to codedamn for considerations.
 **Thoughts:** I will Learn more about php Objects - (Objects inherit all properties and behaviours from the class but each object will have different values eg class named car with properties like $model, $color- )
 
 **Link to work:** [W3Schools](https://www.w3schools.com/php/php_oop_classes_objects.asp)
-
-

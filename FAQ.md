@@ -26,7 +26,7 @@
   **Q:** Should I put my projects online?
   **A:** Definitely. It’s great for accountability and motivation to know that the stuff you’ve worked on is accessible online to anyone who may wish to look at it. It will make you care about the end product more, and will lead to a more impressive result in the end. I suggest you put them on GitHub.
 
-  **Q:** Should I worry about streaks?
+  **Q:** Should I worry about streaks??
   **A:** Streaks are nice and helpful, but as I mentioned above — don’t worry about them too much and don’t criticize yourself over missing a day. Instead, make sure you do everything to not let that happen again, and know that worrying and scolding yourself will not give you any results. (Ok, It will give you results, but only negative. I would call them consequences, not results) The best way to get out of that negative emotional state is to sit down and code.
 
   **Q:** What is the most difficult part of this challenge?

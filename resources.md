@@ -24,8 +24,9 @@
 2. [Codedamn - Javascript 101 course](https://codedamn.com/learn/javascript-basics/avmx_IwEu_)
 3. [Android - Android and Kotlin](https://raywenderlich.com/android/videos)
 4. [Python Tutorial: Introduction To Learn Python Tutorial](https://www.youtube.com/watch?v=P74JAYCD45A&list=PLGzru6ACxEALhcvY18A-iox-mEoieHMVG&ab_channel=MasterCodeOnline)
-5. ["Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
+5. [Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
 6. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+7. [Free JavaScript Learning Resources](https://dev.to/nasratredi1/free-javascript-learning-resources-k8h)
 
 ## Books (both coding and non-coding)
 

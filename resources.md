@@ -27,6 +27,7 @@
 5. [Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
 6. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 7. [Free JavaScript Learning Resources](https://dev.to/nasratredi1/free-javascript-learning-resources-k8h)
+8. [My favourite free resources for learning how to code](https://blog.jingjinghu.com/my-favourite-free-resources-for-learning-how-to-code)
 
 ## Books (both coding and non-coding)
 
@@ -41,7 +42,7 @@
 ### Coding
 1. ["Professional Node.js] by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
-3. ["Mastering JavaScript] (by Ved Antani)
+3. ["Mastering JavaScript](by Ved Antani)
 4. ["Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5](https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript-ebook/dp/B07CZ4W8X2/ref=as_li_ss_tl?keywords=php+books&qid=1554195228&s=gateway&sr=8-1&linkCode=sl1&tag=srinipro-20&linkId=512649a1c853a002f64c256527d4598e&language=en_US)
 
 ## Contents

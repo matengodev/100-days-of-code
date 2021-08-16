@@ -75,3 +75,11 @@ to codedamn for considerations.
 **Thoughts:** I will Learn more about php Objects - (Objects inherit all properties and behaviours from the class but each object will have different values eg class named car with properties like $model, $color- )
 
 **Link to work:** [W3Schools](https://www.w3schools.com/php/php_oop_classes_objects.asp)
+
+### Day 10: Saturday, August 13, 2021(Day OFF)
+
+**Today's Progress**: Today I took a day off to work on chruch stuffs
+
+**Thoughts:** Having a day of is important to just unwind 
+
+**Link to work:** [W3Schools](https://www.w3schools.com)

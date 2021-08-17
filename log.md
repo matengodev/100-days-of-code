@@ -83,3 +83,12 @@ to codedamn for considerations.
 **Thoughts:** Having a day of is important to just unwind 
 
 **Link to work:** [W3Schools](https://www.w3schools.com)
+
+### Day 11: Monday, August 16th, 2021(Intro to Web Dev with Brian Colt - FrontEnd Masters)
+
+**Today's Progress**: learnt How to use HTML elements,forms,table, HTML attributes, and Class attributes.
+
+**Thoughts:** I Understand the importance of HTML in boosting a site's performance in-terms of SEO Optimization'.
+
+**Link to work:** [web-development-v2](https://frontendmasters.com/courses/web-development-v2)
+

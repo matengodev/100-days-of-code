@@ -23,11 +23,12 @@
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 2. [Codedamn - Javascript 101 course](https://codedamn.com/learn/javascript-basics/avmx_IwEu_)
 3. [Android - Android and Kotlin](https://raywenderlich.com/android/videos)
-4. [Python Tutorial: Introduction To Learn Python Tutorial](https://www.youtube.com/watch?v=P74JAYCD45A&list=PLGzru6ACxEALhcvY18A-iox-mEoieHMVG&ab_channel=MasterCodeOnline)
-5. [Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
-6. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-7. [Free JavaScript Learning Resources](https://dev.to/nasratredi1/free-javascript-learning-resources-k8h)
-8. [My favourite free resources for learning how to code](https://blog.jingjinghu.com/my-favourite-free-resources-for-learning-how-to-code)
+4. [FrontEnd Masters - Intro to Web dev v2](https://frontendmasters.com/courses/web-development-v2)
+5. [Python Tutorial: Introduction To Learn Python Tutorial](https://www.youtube.com/watch?v=P74JAYCD45A&list=PLGzru6ACxEALhcvY18A-iox-mEoieHMVG&ab_channel=MasterCodeOnline)
+6. [Best Udemy Courses Ever Created](https://docs.google.com/document/d/1PtnzUc5nJVtaWfu4-GESPW1esSuF_y35hRm1KKP-SFE/edit?usp=sharing)
+7. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+8. [Free JavaScript Learning Resources](https://dev.to/nasratredi1/free-javascript-learning-resources-k8h)
+9. [My favourite free resources for learning how to code](https://blog.jingjinghu.com/my-favourite-free-resources-for-learning-how-to-code)
 
 ## Books (both coding and non-coding)
 

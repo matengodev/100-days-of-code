@@ -29,6 +29,10 @@
 7. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 8. [Free JavaScript Learning Resources](https://dev.to/nasratredi1/free-javascript-learning-resources-k8h)
 9. [My favourite free resources for learning how to code](https://blog.jingjinghu.com/my-favourite-free-resources-for-learning-how-to-code)
+10. [PHPTheRightWay](https://phptherightway.com/)
+11. [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+12. [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+13. [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## Books (both coding and non-coding)
 

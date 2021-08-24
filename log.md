@@ -92,3 +92,11 @@ to codedamn for considerations.
 
 **Link to work:** [web-development-v2](https://frontendmasters.com/courses/web-development-v2)
 
+### Day 12: Tuesday, August 24th, 2021(Intro to Python)
+
+**Today's Progress**: learnt python basics e.g. variables,strings and how to use functions.
+
+**Thoughts:** I Love python, and soon I will do a project with it once i understand all the basic concepts.
+
+**Link to work:** [Tech World With Nana](https://www.youtube.com/c/TechWorldwithNana)
+

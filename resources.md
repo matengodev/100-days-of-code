@@ -33,6 +33,7 @@
 11. [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 12. [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 13. [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+14. [Great Learning](https://olympus.greatlearning.in/courses/12682/pages/operators-in-python?resume=291)
 
 ## Books (both coding and non-coding)
 

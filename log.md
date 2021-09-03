@@ -10,9 +10,11 @@
 
 ### Day 1: Wednesday,August 1, 2021(Introduction to programming and Python Basics)
 
-**Today's Progress**: 
+**Today's Progress**: Learnt about introduction to programming with Python, decision-making statements, 
+Object oriented programming concepts, looping statements, Algorithm approach to solve a problem, introduction to python,
+Introduction to Jupyter Notebook, Variables and data types in python.
 
-**Thoughts:**
+**Thoughts:** Keep on Coding and practising.
 
 **Link to work:** [Great Learning](https://olympus.greatlearning.in/dashboard)
 

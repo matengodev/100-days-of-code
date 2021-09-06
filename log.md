@@ -8,7 +8,7 @@
 
 **Link to work:** [Git Repository](http://www.example.com)
 
-### Day 1: Wednesday,August 1, 2021(Introduction to programming and Python Basics)
+### Day 1: Wednesday,August 1, 2021 (Introduction to programming and Python Basics)
 
 **Today's Progress**: Learnt about introduction to programming with Python, decision-making statements, 
 Object oriented programming concepts, looping statements, Algorithm approach to solve a problem, introduction to python,

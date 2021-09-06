@@ -34,6 +34,7 @@
 12. [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 13. [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 14. [Great Learning](https://olympus.greatlearning.in/courses/12682/pages/operators-in-python?resume=291)
+15. [DesignCourse - HTML AND CSS](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse)
 
 ## Books (both coding and non-coding)
 

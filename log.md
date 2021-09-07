@@ -8,7 +8,7 @@
 
 **Link to work:** [Git Repository](http://www.example.com)
 
-### Day 1: Wednesday,August 1, 2021 (Introduction to programming and Python Basics)
+### Day 1: Monday,September 6, 2021 (Introduction to programming and Python Basics)
 
 **Today's Progress**: Learnt about introduction to programming with Python, decision-making statements, 
 Object oriented programming concepts, looping statements, Algorithm approach to solve a problem, introduction to python,
@@ -17,4 +17,12 @@ Introduction to Jupyter Notebook, Variables and data types in python.
 **Thoughts:** Keep on Coding and practising.
 
 **Link to work:** [Great Learning](https://olympus.greatlearning.in/dashboard)
+
+### Day 2: Tuesday, September 7, 2021(JavaScript Basics)
+
+**Today's Progress**: learnt How to use maths operator, increment and decrement, using console and chrome developer tools,.
+
+**Thoughts:** I Understand the importance of mastering the basics to make my work much easier ahead.
+
+**Link to work:** [30 Days Of JavaScript](https://github.com/matengodev/30-Days-Of-JavaScript/)
 

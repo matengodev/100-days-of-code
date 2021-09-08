@@ -20,7 +20,7 @@ Introduction to Jupyter Notebook, Variables and data types in python.
 
 ### Day 2: Tuesday, September 7, 2021(JavaScript Basics)
 
-**Today's Progress**: learnt How to use maths operator, increment and decrement, using console and chrome developer tools,.
+**Today's Progress**: learnt How to use maths operator, increment and decrement, using console, loops,arrays,looping through arrays and chrome developer tools,.
 
 **Thoughts:** I Understand the importance of mastering the basics to make my work much easier ahead.
 

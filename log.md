@@ -10,7 +10,7 @@
 
 ### Day 1: Monday,September 6, 2021 (Introduction to programming and Python Basics)
 
-**Today's Progress**: Learnt about introduction to programming with Python, decision-making statements, 
+**Today's Progress**: Learnt about introduction to programming with Python, decision-making statements,
 Object oriented programming concepts, looping statements, Algorithm approach to solve a problem, introduction to python,
 Introduction to Jupyter Notebook, Variables and data types in python.
 
@@ -26,3 +26,10 @@ Introduction to Jupyter Notebook, Variables and data types in python.
 
 **Link to work:** [30 Days Of JavaScript](https://github.com/matengodev/30-Days-Of-JavaScript/)
 
+Day 3: Wednesday, September 8, 2021(JavaScript Basics)
+
+**Today's Progress**: learnt How to use let const and var,Create functions,Taking decisions with If Else Statements.
+
+**Thoughts:** I Understand the importance of mastering the basics to make my work much easier ahead.
+
+**Link to work:** [Jonas Udemy Course Complete JavaScript Course](https://drive.google.com/drive/u/2/folders/1ZqG2QTmVk_rI91BXoueTr-Q9vbzT5fqa)
